@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200627152557",
+    "project_id": "speechbuddy2-49008",
+    "storage_bucket": "speechbuddy2-49008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200627152557:android:6cb47d528a1eb54a2a0824",
+        "android_client_info": {
+          "package_name": "com.example.speech_buddy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200627152557-kf6587enq8libdas6mv10ifeto077s1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tP3yzkjdTjqwxY_tawbEJs5JVAvbGfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200627152557-kf6587enq8libdas6mv10ifeto077s1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
