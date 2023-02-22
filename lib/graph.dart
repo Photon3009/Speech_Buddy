@@ -73,7 +73,7 @@ class _GraphPerState extends State<GraphPer> {
       ),
       body: Center(
         child: Container(
-            padding: const EdgeInsets.all(20),
+            padding: const EdgeInsets.all(50),
             child: ListView(
               children: [
                 isText?

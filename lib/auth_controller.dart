@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'home.dart';
 import 'home_screen.dart';
 import 'login_screen.dart';
 
@@ -29,7 +30,7 @@ class AuthController extends GetxController {
     }
    
     else{
-      Get.offAll(() => const MyHomePage( title: 'flutter app',));
+      Get.offAll(() =>  Home1Page());
     }
   }
 
