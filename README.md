@@ -1,4 +1,4 @@
-# speech_buddy2
+# Speech Buddy
 
 A new Flutter project.
 
